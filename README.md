@@ -73,6 +73,6 @@ Special thanks to **Clément Bisaillon** for providing the dataset on Kaggle.
 ### 🌟 Upendra Kushwaha
 
 📌 GitHub Repository:
-https://github.com/mrupendrakushwaha/FAKE-NEWS-DETENTION-PROJECT
+https://github.com/mrupendrakushwaha/FAKE-NEWS-DETECTION-PROJECT
 
 ⭐ If you like this project, don't forget to Star the
